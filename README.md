@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Ferhat Kosger — Digital Product Founder. VocaScene, OddsRadar, London, UK." />
+  <img src="./assets/banner.svg?v=734570d" width="100%" alt="Ferhat Kosger — Digital Product Founder. VocaScene, OddsRadar, London, UK." />
 </p>
 
 <p align="center"><strong>From ideas to live products.</strong></p>
