@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**core3333/core3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ferhat
 
-Here are some ideas to get you started:
+**Software development · Practical tools · Open source**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building useful software and sharing how it works.
+
+[Explore my projects](https://github.com/core3333?tab=repositories&type=public) · [Follow my work](https://github.com/core3333)
+
+</div>
+
+---
+
+### Building in the open
+
+I’m Ferhat, a software developer. I’m opening up more of my work through public projects, bringing code, documentation, and examples together.
+
+This profile is the starting point for exploring what I build and how it develops.
