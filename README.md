@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferhatcore/ferhatcore/4eae19effdafad37d5c7e8dbfca333289e8604fd/assets/banner.svg" width="100%" alt="Ferhat Kosger — Digital Product Founder. VocaScene, OddsRadar, London, UK." />
+  <img src="https://raw.githubusercontent.com/ferhatcore/ferhatcore/ae60596ca58196dc4af230e85125258274c5ed3c/assets/banner.svg" width="100%" alt="Ferhat Kosger — Digital Product Founder. VocaScene, OddsRadar, London, UK." />
 </p>
 
 <p align="center"><strong>From ideas to live products.</strong></p>
 
 <p align="center">
-  <a href="https://vocascene.co"><img src="https://img.shields.io/badge/VocaScene-0E7490?style=for-the-badge" alt="VocaScene website" /></a>
-  <a href="https://oddsradar.online"><img src="https://img.shields.io/badge/OddsRadar-6554C0?style=for-the-badge" alt="OddsRadar website" /></a>
+  <a href="https://vocascene.co"><img src="https://img.shields.io/badge/VocaScene-6F2EE2?style=for-the-badge" alt="VocaScene website" /></a>
+  <a href="https://oddsradar.online"><img src="https://img.shields.io/badge/OddsRadar-064E3B?style=for-the-badge" alt="OddsRadar website" /></a>
   <a href="https://github.com/ferhatcore?tab=repositories&amp;type=public"><img src="https://img.shields.io/badge/Public_Projects-1F2937?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Public GitHub projects" /></a>
 </p>
 
@@ -24,8 +24,8 @@ My work spans product discovery, user flows, workflow automation, testing, and p
 
 | Product | Focus |
 | --- | --- |
-| [**VocaScene**](https://vocascene.co) | Language learning through vocabulary and subtitle context from streaming content. |
-| [**OddsRadar**](https://oddsradar.online) | A consumer product for exploring and comparing sports and odds data. |
+| [![VocaScene](https://img.shields.io/badge/VocaScene-6F2EE2?style=for-the-badge)](https://vocascene.co) | Language learning through vocabulary and subtitle context from streaming content. |
+| [![OddsRadar](https://img.shields.io/badge/OddsRadar-064E3B?style=for-the-badge)](https://oddsradar.online) | A consumer product for exploring and comparing sports and odds data. |
 
 ---
 
@@ -53,5 +53,6 @@ A file-based project management workflow for **Claude Code and Codex**, with sha
 ## Focus
 
 Product discovery · User experience · Workflow automation · AI agent workflows · Open source
+
 
 
