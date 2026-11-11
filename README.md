@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferhatcore/ferhatcore/ae60596ca58196dc4af230e85125258274c5ed3c/assets/banner.svg" width="100%" alt="Ferhat Kosger — Digital Product Founder. VocaScene, OddsRadar, London, UK." />
+  <img src="https://raw.githubusercontent.com/ferhatcore/ferhatcore/a7cf0e6f8394625b8d25b06db96152183ae303c9/assets/banner.svg" width="100%" alt="Ferhat Kosger — Digital Product Founder. VocaScene, OddsRadar, London, UK." />
 </p>
 
 <p align="center"><strong>From ideas to live products.</strong></p>
@@ -41,18 +41,25 @@ A file-based project management workflow for **Claude Code and Codex**, with sha
 
 ## Tools & Platforms
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-17362C?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Main tools used across my projects.
+
+| Area | Tools |
+| --- | --- |
+| **AI & workflows** | Claude Code · Codex · OpenAI API |
+| **Languages & runtime** | TypeScript · JavaScript · Swift · Kotlin · Python · Java · Node.js |
+| **Web & extensions** | React · Next.js · Tailwind CSS · WXT |
+| **Mobile** | React Native · Expo |
+| **Data & integrations** | Supabase · PostgreSQL · Stripe · Azure Speech |
+| **Interface & animation** | shadcn/ui · Radix UI · Rive · Three.js |
+| **Testing & quality** | Jest · React Native Testing Library · Node.js test runner · ESLint · Prettier |
+| **Delivery** | Git · GitHub Actions · pnpm |
 
 ---
 
 ## Focus
 
 Product discovery · User experience · Workflow automation · AI agent workflows · Open source
+
 
 
 
