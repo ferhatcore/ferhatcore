@@ -29,8 +29,18 @@ My work spans product discovery, user flows, workflow automation, testing, and p
 
 ---
 
+## Agent Workflows
+
+### Claude Code Project OS · Coming soon
+
+A file-based workflow kit for Claude Code, bringing together project management, agent roles, task briefs, independent QA, and durable handoffs. Preparing for public release.
+
+---
+
 ## Tools & Platforms
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-17362C?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
@@ -40,4 +50,5 @@ My work spans product discovery, user flows, workflow automation, testing, and p
 
 ## Focus
 
-Product discovery · User experience · Workflow automation · Open source
+Product discovery · User experience · Workflow automation · AI agent workflows · Open source
+
