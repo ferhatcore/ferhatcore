@@ -31,9 +31,11 @@ My work spans product discovery, user flows, workflow automation, testing, and p
 
 ## Agent Workflows
 
-### Claude Code Project OS · Coming soon
+### [Project OS for Claude Code and Codex](https://github.com/ferhatcore/claude-codex-project-os)
 
-A file-based workflow kit for Claude Code, bringing together project management, agent roles, task briefs, independent QA, and durable handoffs. Preparing for public release.
+A file-based project management workflow for **Claude Code and Codex**, with shared task files, PM and developer roles, independent QA, and human approvals. Switch clients while keeping project state in one place.
+
+[Explore the repository →](https://github.com/ferhatcore/claude-codex-project-os)
 
 ---
 
@@ -51,4 +53,5 @@ A file-based workflow kit for Claude Code, bringing together project management,
 ## Focus
 
 Product discovery · User experience · Workflow automation · AI agent workflows · Open source
+
 
