@@ -14,9 +14,9 @@
 
 ## About Me
 
-Digital Product Founder based in London. Founder of **VocaScene** and **OddsRadar**, taking digital products from concept through launch and ongoing iteration.
+Mobile Software Engineer based in London, working with React Native and TypeScript. My background includes fintech, mobile payments and native development with Kotlin and Swift.
 
-My work spans product discovery, user flows, workflow automation, testing, and product delivery.
+Founder and sole developer of **VocaScene**, and co-founder and mobile developer of **OddsRadar**. I also build developer tools and work on **EMusica**, a TypeScript and MCP project for Ableton Live.
 
 ---
 
@@ -59,6 +59,7 @@ Main tools used across my projects.
 ## Focus
 
 Product discovery · User experience · Workflow automation · AI agent workflows · Open source
+
 
 
 
