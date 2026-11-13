@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
-  <title id="title">Ferhat Kosger — Digital Product Founder</title>
-  <desc id="desc">London-based product founder. VocaScene in lavender, OddsRadar in emerald, and Project OS for Claude Code and Codex.</desc>
+  <title id="title">Ferhat Kosger - Mobile Software Engineer</title>
+  <desc id="desc">Mobile Software Engineer in London. React Native, TypeScript, iOS and Android. VocaScene, OddsRadar and EMusica.</desc>
   <defs>
     <linearGradient id="base" x2="1" y2="1"><stop stop-color="#11151e"/><stop offset=".55" stop-color="#0c1017"/><stop offset="1" stop-color="#0a0d13"/></linearGradient>
     <radialGradient id="purple"><stop stop-color="#873cf1" stop-opacity=".12"/><stop offset="1" stop-color="#873cf1" stop-opacity="0"/></radialGradient>
@@ -16,12 +16,12 @@
     <rect x="80" y="64" width="43" height="43" rx="11" fill="#1a202b" stroke="#343e4d"/>
     <text x="101.5" y="92" fill="#e9edf3" font-size="17" font-weight="700" text-anchor="middle">FK</text>
     <text x="142" y="91" fill="#a6b1bf" font-size="17" letter-spacing="1.4">@ferhatcore</text>
-    <text x="81" y="169" fill="#a6b1bf" font-size="17" font-weight="600" letter-spacing="3.3">DIGITAL PRODUCT FOUNDER</text>
+    <text x="81" y="169" fill="#a6b1bf" font-size="17" font-weight="600" letter-spacing="3.3">MOBILE SOFTWARE ENGINEER</text>
     <text x="76" y="258" fill="#f4f6fa" font-size="78" font-weight="700" letter-spacing="-2.5">Ferhat Kosger</text>
-    <text x="81" y="317" fill="#bbc5d2" font-size="25" letter-spacing=".3">Products. Workflows. Open source.</text>
+    <text x="81" y="317" fill="#bbc5d2" font-size="25" letter-spacing=".3">React Native · TypeScript · iOS &amp; Android</text>
     <circle cx="87" cy="445" r="4" fill="#d5dae3"/>
     <text x="104" y="451" fill="#909dac" font-size="17">London, UK</text>
-    <text x="1519" y="451" fill="#68788a" font-size="14" letter-spacing="2" text-anchor="end">FROM IDEAS TO LIVE PRODUCTS</text>
+    <text x="1519" y="451" fill="#68788a" font-size="14" letter-spacing="2" text-anchor="end">MOBILE DEVELOPMENT &amp; FINTECH</text>
     <text x="974" y="89" fill="#7f8d9e" font-size="14" font-weight="600" letter-spacing="2.6">SELECTED WORK</text>
     <path d="M974 213H1518M974 314H1518" stroke="#27313e"/>
     <rect x="974" y="125" width="3" height="61" rx="1.5" fill="#a163ff"/>
@@ -30,11 +30,12 @@
     <text x="1518" y="150" fill="#a998c7" font-size="15" text-anchor="end">vocascene.co</text>
     <rect x="974" y="236" width="3" height="55" rx="1.5" fill="#16d69a"/>
     <text x="1000" y="259" fill="#8ae7bd" font-size="27" font-weight="600">OddsRadar</text>
-    <text x="1001" y="289" fill="#92a99f" font-size="17">Sports &amp; odds intelligence</text>
+    <text x="1001" y="289" fill="#92a99f" font-size="17">Football analytics</text>
     <text x="1518" y="260" fill="#8db9a7" font-size="15" text-anchor="end">oddsradar.online</text>
     <rect x="974" y="337" width="3" height="55" rx="1.5" fill="#9babc2"/>
-    <text x="1000" y="360" fill="#e0e6ef" font-size="27" font-weight="600">Project OS</text>
-    <text x="1001" y="390" fill="#8f9fb4" font-size="17">Claude Code + Codex</text>
-    <text x="1518" y="361" fill="#8f9fb4" font-size="15" text-anchor="end">Open source</text>
+    <text x="1000" y="360" fill="#e0e6ef" font-size="27" font-weight="600">EMusica</text>
+    <text x="1001" y="390" fill="#8f9fb4" font-size="17">Ableton Live + MCP</text>
+    <text x="1518" y="361" fill="#8f9fb4" font-size="15" text-anchor="end">In development</text>
   </g>
 </svg>
+
