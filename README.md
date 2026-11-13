@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/ferhatcore/ferhatcore/main/assets/banner.svg" width="100%" alt="Ferhat Kosger, Mobile Software Engineer. React Native, TypeScript, iOS and Android." />
 </p>
 
-<p align="center"><strong>From ideas to live products.</strong></p>
-
 <p align="center">
   <a href="https://vocascene.co"><img src="https://img.shields.io/badge/VocaScene-6F2EE2?style=for-the-badge" alt="VocaScene website" /></a>
   <a href="https://oddsradar.online"><img src="https://img.shields.io/badge/OddsRadar-064E3B?style=for-the-badge" alt="OddsRadar website" /></a>
@@ -25,7 +23,7 @@ Founder and sole developer of **VocaScene**, and co-founder and mobile developer
 | Product | Focus |
 | --- | --- |
 | [![VocaScene](https://img.shields.io/badge/VocaScene-6F2EE2?style=for-the-badge)](https://vocascene.co) | Language learning through vocabulary and subtitle context from streaming content. |
-| [![OddsRadar](https://img.shields.io/badge/OddsRadar-064E3B?style=for-the-badge)](https://oddsradar.online) | A consumer product for exploring and comparing sports and odds data. |
+| [![OddsRadar](https://img.shields.io/badge/OddsRadar-064E3B?style=for-the-badge)](https://oddsradar.online) | Football match data, odds movements and alerts. |
 
 ---
 
@@ -33,7 +31,7 @@ Founder and sole developer of **VocaScene**, and co-founder and mobile developer
 
 ### [Project OS for Claude Code and Codex](https://github.com/ferhatcore/claude-codex-project-os)
 
-A file-based project management workflow for **Claude Code and Codex**, with shared task files, PM and developer roles, independent QA, and human approvals. Switch clients while keeping project state in one place.
+Shared task files, development roles and QA checks for **Claude Code and Codex**.
 
 [Explore the repository →](https://github.com/ferhatcore/claude-codex-project-os)
 
@@ -58,9 +56,5 @@ Main tools used across my projects.
 
 ## Focus
 
-Product discovery · User experience · Workflow automation · AI agent workflows · Open source
-
-
-
-
+Mobile development · Fintech · Developer tools
 
