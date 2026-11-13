@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferhatcore/ferhatcore/a7cf0e6f8394625b8d25b06db96152183ae303c9/assets/banner.svg" width="100%" alt="Ferhat Kosger — Digital Product Founder. VocaScene, OddsRadar, London, UK." />
+  <img src="https://raw.githubusercontent.com/ferhatcore/ferhatcore/main/assets/banner.svg" width="100%" alt="Ferhat Kosger, Mobile Software Engineer. React Native, TypeScript, iOS and Android." />
 </p>
 
 <p align="center"><strong>From ideas to live products.</strong></p>
